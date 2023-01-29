@@ -1,5 +1,3 @@
-# Pipes-and-Lines
-
 A terminal program written in C++ which tiles the console screen using the classic "Box Builder" characters from Code Page 437. See: https://en.wikipedia.org/wiki/Box-drawing_character
 Code Page 437 is the original IBM PC character set.
 
